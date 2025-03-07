@@ -1,4 +1,4 @@
-# Balancing of a two wheeled Segway Robot
+# Balancing of a Two-Wheeled Segway Robot
 Designed and modeled a two-wheeled robotic system by deriving equations of motion and implementing state-space representations to analyze dynamics. Developed and tuned a pole-placement controller to achieve desired performance metrics such as minimal overshoot and reduced settling time for stable motion. Performed stability analysis (Lyapunov & BIBO) and verified system controllability and observability, ensuring robust and predictable system behavior. Simulated robotic motion and control response using MATLAB tools (root locus, phase portraits) for applications in material transport and factory automation.
 
 ## Design
