@@ -19,7 +19,8 @@ Designed and modeled a two-wheeled robotic system by deriving equations of motio
 
 ## Individual State's Plots
 
-![image](https://github.com/user-attachments/assets/f3f92e74-6d4d-4b12-91af-691eb904afb1)
-![image](https://github.com/user-attachments/assets/5d21c31d-2f26-4460-b048-6c3251aa72c2)
-![image](https://github.com/user-attachments/assets/2a99da7f-9887-4117-a9b7-5bfeb47140c7)
+<img src="https://github.com/user-attachments/assets/f3f92e74-6d4d-4b12-91af-691eb904afb1" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/5d21c31d-2f26-4460-b048-6c3251aa72c2" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/2a99da7f-9887-4117-a9b7-5bfeb47140c7" width="400" height="400">
+
 
