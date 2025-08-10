@@ -4,23 +4,18 @@ Designed and modeled a two-wheeled robotic system by deriving equations of motio
 ## Design
 <img src="https://github.com/user-attachments/assets/bf1293bf-b722-4b76-b07b-c97b6d8e80f7" width="400" height="400">
 
-
 ## Plots
 ### Phase Portrait
-
-![image](https://github.com/user-attachments/assets/aafb5205-9cc3-4790-8c6f-99ae6b62d03d)
+<img src="https://github.com/user-attachments/assets/aafb5205-9cc3-4790-8c6f-99ae6b62d03d" width="400" height="400">
 
 ### Root Locus for Open Loop System
-
-![image](https://github.com/user-attachments/assets/653a01c3-7e20-4a6e-807a-231eaab4d6bc)
+<img src="https://github.com/user-attachments/assets/653a01c3-7e20-4a6e-807a-231eaab4d6bc" width="400" height="400">
 
 ### Root Locus for Closed Loop System
-
-![image](https://github.com/user-attachments/assets/e741e32a-efd9-4891-a223-20491d66b6be)
+<img src="https://github.com/user-attachments/assets/e741e32a-efd9-4891-a223-20491d66b6be" width="400" height="400">
 
 ### Stability Analysis For Closed loop 
-
-![image](https://github.com/user-attachments/assets/d28f46a6-d4af-43cc-a6a3-8d9ac317350e)
+<img src="https://github.com/user-attachments/assets/d28f46a6-d4af-43cc-a6a3-8d9ac317350e" width="400" height="400">
 
 ## Individual State's Plots
 
